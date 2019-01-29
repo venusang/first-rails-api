@@ -7,3 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Article.create(title: 'Hello world', content: 'lorem ipsum', slug: 'hello-world')
+
+User.create(name: 'Johnny Appleseed', city: 'Los Angeles', state: 'CA', hobbies: 'Surfing, rollerblading, cooking, singing and dancing')
+
+Company.create(name: 'MySpace', city: 'Beverly Hills', state: 'CA', industry: 'Social Media')
